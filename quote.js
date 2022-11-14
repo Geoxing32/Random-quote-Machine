@@ -1,7 +1,6 @@
 const QUOTEBANK = [{
-       quote: "All men are ordinary only the extrordinary men can see that",
-	author: "MDB"},
-{
+   
+
        quote: "Whatever the mind of man can conceive and believe, it can achieve.",
 	author: "Napoleon Hill"},
 {
@@ -47,7 +46,8 @@ const QUOTEBANK = [{
 {		quote: "You cannot  honor God and dishonor his commandements.",
 	author: "Geovany Silva "},
 		
-{		quote: "Si l'oiseau  peut trouver à manger l’homme  trouvera à manger.",
+{		
+  quote: "Si l'oiseau  peut trouver à manger l’homme  trouvera à manger.",
 	author: "Geovany Silva "},
 		
 {		quote: "La mémoire ne sert pas a se souvenir du passé mais a préparer l'avenir .",
