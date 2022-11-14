@@ -94,15 +94,4 @@ const QUOTEBANK = [{
 		   
 	
 		   
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-
 ]
